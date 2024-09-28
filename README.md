@@ -1,5 +1,5 @@
 -He/Him
--Front End Web Developer
+-Full Stack Developer
 -Blood Group: B+
 <!---
 sh4aadman/sh4aadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
